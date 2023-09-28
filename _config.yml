@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Data Science Career Tips 
+title: Data Science Basics for Beginners
 email: tylerduke111@gmail.com 
-description: "Unlocking Your Data Science Career: Your Guide to Success" 
+description: "Mastering Data Science: Tips, Tricks, and Tutorials" 
 baseurl: "/my-blog" # the name of the repository 
 url: "https://tylerduke11.github.io" #  change this to "https://<your-github-username>.github.io"
 image: https://cytech.cyu.fr/medias/photo/233242_1615370373523-jpg?ID_FICHE=21860
