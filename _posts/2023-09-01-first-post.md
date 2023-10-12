@@ -24,13 +24,13 @@ Before we dive into the process of creating your portfolio, let's understand why
 Now that we understand the importance of a portfolio, let's get started on creating one.
 
 ## How to Create Your Portfolio
-# Step 1: Define Your Purpose
+### Step 1: Define Your Purpose
 Before you start compiling your portfolio, it's important to define your purpose. Understanding your purpose will guide your portfolio's content. Ask yourself these questions:
 * What kind of job are you aiming for?
 * What skills and experiences are most relevant to that job?
 * What projects will highlight these skills and experiences?
 
-# Step 2: Choose the Right Platform
+### Step 2: Choose the Right Platform
 Decide whether you want a physical portfolio, a digital one, or both. For digital portfolios, popular platforms include:
 * __Website__: Create a personal website using platforms like [GitHub Pages](https://pages.github.com/), [Wix](https://www.wix.com/), or [Squarespace](https://www.squarespace.com/websites/create-a-portfolio/?channel=pnb&subchannel=go&campaign=pnb-go-us-en-core_verticals_general_tier1-bd_oct23exp&subcampaign=(graphic-design_graphic-design-portfolio_bd)&&cid=20581061502&aid=155364285513&tid=aud-146705952086:kwd-19517336&mt=b&eid=&loc_p_ms=1026980&loc_i_ms=&nw=g&d=c&adid=532740002873&channel2=pnb&subchannel2=go&gad=1&gclid=Cj0KCQjwsp6pBhCfARIsAD3GZuYE-LCBdhGPO2RRtE8n9kQRwXE2GwS8e93xyGS5jYF9zx4yhDMLiDsaAnUSEALw_wcB&gclsrc=aw.ds).
 * __Social Media__: Use platforms like [LinkedIn](www.linkedin.com/) or [GitHub](https://github.com/) to showcase your work and use this as an opportunity to network.
@@ -38,7 +38,7 @@ Decide whether you want a physical portfolio, a digital one, or both. For digita
 
 [Note about GitHub]{.bold}: Many professionals use GitHub to showcase their current and ongoing projects. Public GitHub profiles enable prospective employers to track real-time updates to your code. It's good to include explanations of your role in each project so people can know how you impacted and helped the team.
 
-# Step 3: Organize Your Content
+### Step 3: Organize Your Content
 Your portfolio should be well-organized and easy to navigate for employers and others to easily look at it. A good way to organize it is using sections, such as:
 
 * About Me: A brief introduction about yourself.
@@ -47,21 +47,18 @@ Your portfolio should be well-organized and easy to navigate for employers and o
 * Skills: List your skills and rate your proficiency.
 * Testimonials: Include references or quotes from previous employers or clients.
 
-# Step 4: Presentation Matters
+### Step 4: Presentation Matters
 Your portfolio's design and layout should be clean, professional, and consistent. Some tips include:
 * Use a color scheme and fonts that reflect your personal brand. [DesignStripe](https://designstripe.com/blog/how-to-choose-the-perfect-colors-and-fonts-that-fit-your-brand#:~:text=Pick%20According%20to%20Brand%20Personality,to%20perfectly%20deliver%20your%20point.) has some great ideas on how to best design your personal brand.
 * Ensure that images are of high quality and properly labeled.
 * Keep the page design simple. Loud web pages and portfolios can distract from your work and what you are trying to accomplish.
 
-<img src="{{site.url}}/{{site.baseurl}}/assets/images/portfolio-presentation.jpeg"/>
+<img src="{{site.url}}/{{site.baseurl}}/assets/images/portfolio-organization.jpeg"/>
 
-# Step 5: Keep it Updated
+### Step 5: Keep it Updated
 A portfolio is not a one-time creation. Regularly update it with your latest work, experiences, and achievements. This shows potential employers that you're actively engaged in your field.
 
-# Step 6: Tell a Story
-Use your portfolio to tell your professional story. Explain the challenges you've overcome, your growth, and the impact of your work. This can be a powerful way to connect with potential employers.
-
-## Conclusion
+#### Conclusion
 A well-crafted portfolio is your personal brand and your key to landing the job you desire. It is important that you invest time and effort in making your portfolio shine. It's a dynamic tool that evolves with your career, which will continuously open doors to new opportunities as it showcases your skills, experience, and personality. With the right portfolio in hand, you are well on your way to securing your dream job. By following the steps outlined in this guide, you'll be well-prepared to create a compelling portfolio that sets you apart from the competition.
 
 Happy job hunting!
