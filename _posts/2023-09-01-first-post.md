@@ -32,11 +32,11 @@ Before you start compiling your portfolio, it's important to define your purpose
 
 ### Step 2: Choose the Right Platform
 Decide whether you want a physical portfolio, a digital one, or both. For digital portfolios, popular platforms include:
-* __Website__: Create a personal website using platforms like [GitHub Pages](https://pages.github.com/), [Wix](https://www.wix.com/), or [Squarespace](https://www.squarespace.com/websites/create-a-portfolio/?channel=pnb&subchannel=go&campaign=pnb-go-us-en-core_verticals_general_tier1-bd_oct23exp&subcampaign=(graphic-design_graphic-design-portfolio_bd)&&cid=20581061502&aid=155364285513&tid=aud-146705952086:kwd-19517336&mt=b&eid=&loc_p_ms=1026980&loc_i_ms=&nw=g&d=c&adid=532740002873&channel2=pnb&subchannel2=go&gad=1&gclid=Cj0KCQjwsp6pBhCfARIsAD3GZuYE-LCBdhGPO2RRtE8n9kQRwXE2GwS8e93xyGS5jYF9zx4yhDMLiDsaAnUSEALw_wcB&gclsrc=aw.ds).
+* __Website__: Create a personal website using platforms such as [GitHub Pages](https://pages.github.com/), [Wix](https://www.wix.com/), or [Squarespace](https://www.squarespace.com/websites/create-a-portfolio/?channel=pnb&subchannel=go&campaign=pnb-go-us-en-core_verticals_general_tier1-bd_oct23exp&subcampaign=(graphic-design_graphic-design-portfolio_bd)&&cid=20581061502&aid=155364285513&tid=aud-146705952086:kwd-19517336&mt=b&eid=&loc_p_ms=1026980&loc_i_ms=&nw=g&d=c&adid=532740002873&channel2=pnb&subchannel2=go&gad=1&gclid=Cj0KCQjwsp6pBhCfARIsAD3GZuYE-LCBdhGPO2RRtE8n9kQRwXE2GwS8e93xyGS5jYF9zx4yhDMLiDsaAnUSEALw_wcB&gclsrc=aw.ds).
 * __Social Media__: Use platforms like [LinkedIn](www.linkedin.com/) or [GitHub](https://github.com/) to showcase your work and use this as an opportunity to network.
 * __Online Portfolio Builders__: Websites like [Behance](https://www.behance.net/search/projects?search=portfolio&locale=en_US) and [Dribbble](https://dribbble.com/tags/portfoliohttps://dribbble.com/tags/portfolio) offer tools to create beautiful online portfolios with minimal coding skills.
 
-[Note about GitHub]{.bold}: Many professionals use GitHub to showcase their current and ongoing projects. Public GitHub profiles enable prospective employers to track real-time updates to your code. It's good to include explanations of your role in each project so people can know how you impacted and helped the team.
+_Note about GitHub_: Many professionals use GitHub to showcase their current and ongoing projects. Public GitHub profiles enable prospective employers to track real-time updates to your code. It's good to include explanations of your role in each project so people can know how you impacted and helped the team.
 
 ### Step 3: Organize Your Content
 Your portfolio should be well-organized and easy to navigate for employers and others to easily look at it. A good way to organize it is using sections, such as:
@@ -53,6 +53,7 @@ Your portfolio's design and layout should be clean, professional, and consistent
 * Ensure that images are of high quality and properly labeled.
 * Keep the page design simple. Loud web pages and portfolios can distract from your work and what you are trying to accomplish.
 
+Here is a great example of a well-organized portfolio website:
 <img src="{{site.url}}/{{site.baseurl}}/assets/images/portfolio-organization.jpeg"/>
 
 ### Step 5: Keep it Updated
