@@ -4,7 +4,7 @@ title:  "How to Make Your Portfolio Stand Out"
 author: Tyler Duke
 description: A guide to creating a portfolio to showcase your projects and stand out to employers
 image: "/Users/tylerduke/Downloads/BYU/7.F23/Stat386/Blog"
-
+date: Oct 13, 2023
 
 --- 
 
