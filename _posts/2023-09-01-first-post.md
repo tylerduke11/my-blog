@@ -11,15 +11,15 @@ date: Oct 10, 2023
 ## Introduction
 Your portfolio is your calling card. Data science is a competitive field, and standing out to potential employers is important. Your portfolio showcases your academic journey and accomplishments and helps you land your dream job. This blog post will guide you through the essential steps to create a compelling data science portfolio to showcase your skills and impress potential employers.
 
-![Figure]({{site.url}}/{{site.baseurl}}/assets/images/portfolio-showing.jpeg)
+<img src="{{site.url}}/{{site.baseurl}}/assets/images/portfolio-showing.jpeg"/>
 
 
 ## Why Is a Portfolio Important?
 Before we dive into the process of creating your portfolio, let's understand why having one is so essential:
-1. [Showcase Your Work]{.underline}: A portfolio is like an interactive resume that allows you to showcase your best work and projects. It provides potential employers with tangible evidence of your skills and accomplishments. This can give you an edge on the competition to help you get hired.
-2. [Prove Your Skills]{.underline}: It is important to be able to demonstrate your proficiency in a particular skill, rather than just saying it. A portfolio allows you to have visual proof of your capabilities.
-3. [Differentiate Yourself]{.underline}: In the growing world of data science, there are many other competing applicants, and a portfolio sets you apart. It highlights your unique skills and makes it easier for employers to remember you.
-4. [Confidence Boost]{.underline}: Having a strong portfolio boosts your confidence during job interviews. When you can back up your claims with tangible examples, you come across as more credible.
+1. __Showcase Your Work__: A portfolio is like an interactive resume that allows you to showcase your best work and projects. It provides potential employers with tangible evidence of your skills and accomplishments. This can give you an edge on the competition to help you get hired.
+2. __Prove Your Skills__: It is important to be able to demonstrate your proficiency in a particular skill, rather than just saying it. A portfolio allows you to have visual proof of your capabilities.
+3. __Differentiate Yourself__: In the growing world of data science, there are many other competing applicants, and a portfolio sets you apart. It highlights your unique skills and makes it easier for employers to remember you.
+4. __Confidence Boost__: Having a strong portfolio boosts your confidence during job interviews. When you can back up your claims with tangible examples, you come across as more credible.
 
 Now that we understand the importance of a portfolio, let's get started on creating one.
 
@@ -32,9 +32,9 @@ Before you start compiling your portfolio, it's important to define your purpose
 
 # Step 2: Choose the Right Platform
 Decide whether you want a physical portfolio, a digital one, or both. For digital portfolios, popular platforms include:
-* [Website]{.underline}: Create a personal website using platforms like [GitHub Pages](https://pages.github.com/), [Wix](https://www.wix.com/), or [Squarespace](https://www.squarespace.com/websites/create-a-portfolio/?channel=pnb&subchannel=go&campaign=pnb-go-us-en-core_verticals_general_tier1-bd_oct23exp&subcampaign=(graphic-design_graphic-design-portfolio_bd)&&cid=20581061502&aid=155364285513&tid=aud-146705952086:kwd-19517336&mt=b&eid=&loc_p_ms=1026980&loc_i_ms=&nw=g&d=c&adid=532740002873&channel2=pnb&subchannel2=go&gad=1&gclid=Cj0KCQjwsp6pBhCfARIsAD3GZuYE-LCBdhGPO2RRtE8n9kQRwXE2GwS8e93xyGS5jYF9zx4yhDMLiDsaAnUSEALw_wcB&gclsrc=aw.ds).
-* [Social Media]{.underline}: Use platforms like [LinkedIn](www.linkedin.com/) or [GitHub](https://github.com/) to showcase your work and use this as an opportunity to network.
-* [Online Portfolio Builders]{.underline}: Websites like [Behance](https://www.behance.net/search/projects?search=portfolio&locale=en_US) and [Dribbble](https://dribbble.com/tags/portfoliohttps://dribbble.com/tags/portfolio) offer tools to create beautiful online portfolios with minimal coding skills.
+* __Website__: Create a personal website using platforms like [GitHub Pages](https://pages.github.com/), [Wix](https://www.wix.com/), or [Squarespace](https://www.squarespace.com/websites/create-a-portfolio/?channel=pnb&subchannel=go&campaign=pnb-go-us-en-core_verticals_general_tier1-bd_oct23exp&subcampaign=(graphic-design_graphic-design-portfolio_bd)&&cid=20581061502&aid=155364285513&tid=aud-146705952086:kwd-19517336&mt=b&eid=&loc_p_ms=1026980&loc_i_ms=&nw=g&d=c&adid=532740002873&channel2=pnb&subchannel2=go&gad=1&gclid=Cj0KCQjwsp6pBhCfARIsAD3GZuYE-LCBdhGPO2RRtE8n9kQRwXE2GwS8e93xyGS5jYF9zx4yhDMLiDsaAnUSEALw_wcB&gclsrc=aw.ds).
+* __Social Media__: Use platforms like [LinkedIn](www.linkedin.com/) or [GitHub](https://github.com/) to showcase your work and use this as an opportunity to network.
+* __Online Portfolio Builders__: Websites like [Behance](https://www.behance.net/search/projects?search=portfolio&locale=en_US) and [Dribbble](https://dribbble.com/tags/portfoliohttps://dribbble.com/tags/portfolio) offer tools to create beautiful online portfolios with minimal coding skills.
 
 [Note about GitHub]{.bold}: Many professionals use GitHub to showcase their current and ongoing projects. Public GitHub profiles enable prospective employers to track real-time updates to your code. It's good to include explanations of your role in each project so people can know how you impacted and helped the team.
 
@@ -53,7 +53,7 @@ Your portfolio's design and layout should be clean, professional, and consistent
 * Ensure that images are of high quality and properly labeled.
 * Keep the page design simple. Loud web pages and portfolios can distract from your work and what you are trying to accomplish.
 
-![Figure]({{site.url}}/{{site.baseurl}}/assets/images/portfolio-presentation.jpeg)
+<img src="{{site.url}}/{{site.baseurl}}/assets/images/portfolio-presentation.jpeg"/>
 
 # Step 5: Keep it Updated
 A portfolio is not a one-time creation. Regularly update it with your latest work, experiences, and achievements. This shows potential employers that you're actively engaged in your field.
