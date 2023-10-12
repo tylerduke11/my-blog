@@ -3,7 +3,7 @@ layout: post
 title:  "How to Make Your Portfolio Stand Out"
 author: Tyler Duke
 description: "A guide to creating a digital portfolio to showcase your projects and stand out to employers."
-date: Oct 10, 2023
+date: "Oct 10, 2023"
 --- 
 
 
