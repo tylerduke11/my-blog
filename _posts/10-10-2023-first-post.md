@@ -11,7 +11,7 @@ date: Oct 10, 2023
 ## Introduction
 Your portfolio is your calling card. Data science is a competitive field, and standing out to potential employers is important. Your portfolio showcases your academic journey and accomplishments and helps you land your dream job. This blog post will guide you through the essential steps to create a compelling data science portfolio to showcase your skills and impress potential employers.
 
-<img src="{{site.url}}/{{site.baseurl}}/assets/images/portfolio-showing.jpeg"/>
+<img src="{{site.url}}/{{site.baseurl}}/assets/images/portfolio-showing.jpeg" alt="" style="width:300px;/>
 
 
 ## Why Is a Portfolio Important?
@@ -54,7 +54,7 @@ Your portfolio's design and layout should be clean, professional, and consistent
 * Keep the page design simple. Loud web pages and portfolios can distract from your work and what you are trying to accomplish.
 
 Here is a great example of a well-organized portfolio website:
-<img src="{{site.url}}/{{site.baseurl}}/assets/images/portfolio-organization.jpeg"/>
+<img src="{{site.url}}/{{site.baseurl}}/assets/images/portfolio-organization.jpeg" alt="" style="width:300px;/>
 
 ### Step 5: Keep it Updated
 A portfolio is not a one-time creation. Regularly update it with your latest work, experiences, and achievements. This shows potential employers that you're actively engaged in your field.
