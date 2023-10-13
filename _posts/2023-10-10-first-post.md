@@ -35,7 +35,7 @@ Decide whether you want a physical portfolio, a digital one, or both. It is most
 * __Social Media__: Use platforms like [LinkedIn](www.linkedin.com/) or [GitHub](https://github.com/) to showcase your work and use this as an opportunity to network.
 * __Online Portfolio Builders__: Websites like [Behance](https://www.behance.net/search/projects?search=portfolio&locale=en_US) and [Dribbble](https://dribbble.com/tags/portfoliohttps://dribbble.com/tags/portfolio) offer tools to create beautiful online portfolios with minimal coding.
 
-[Here}(https://www.youtube.com/watch?v=fCXBaEnPzgo) is a great video resource to use to get started on setting up a simple portfolio on GitHub. 
+[Here](https://www.youtube.com/watch?v=fCXBaEnPzgo) is a great video resource to use to get started on setting up a simple portfolio on GitHub. 
 
 _Note about GitHub_: Many professionals use GitHub to showcase their current and ongoing projects. Public GitHub profiles enable prospective employers to track real-time updates to your code. It's good to include explanations of your role in each project so people can know how you impacted and helped the team.
 
