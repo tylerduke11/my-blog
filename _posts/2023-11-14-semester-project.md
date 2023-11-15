@@ -4,7 +4,7 @@ title:  "Is NBA Player Performance Correlated with Player Salary?"
 author: Tyler Duke
 description: "An analysis of NBA players and their performance related to their salary"
 date: Nov 14, 2023
-image: <img src="{{site.url}}/{{site.baseurl}}/assets/images/nba-banner.png"/>
+image: "/assets/images/nba-banner.png"
 --- 
 
 ## Introduction and Motivation
