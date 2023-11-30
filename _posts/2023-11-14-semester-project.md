@@ -18,12 +18,12 @@ I then cleaned the data by eliminating some unnecessary columns I wasn't interes
 
 Here is an example of some of the final data set that I will be using for analysis:
 
-	Player	                Team	TW	TL	Age	  Salary	    PTS	  GP	  FG%	  3P%	  FT%	  REB	  AST	  STL	  BLK	  DD2	  TD3
-0	Joel Embiid	            PHI	  54	28	29.0	33616770.0	33.1	66.0	54.8	33.0	85.7	10.2	4.2	  1.0	  1.7	  39.0	1.0
-1	Luka Doncic	            DAL	  38	44	24.0	37096500.0	32.4	66.0	49.6	34.2	74.2	8.6	  8.0	  1.4	  0.5	  36.0	10.0
-2	Damian Lillard	        POR	  33	49	32.0	42492492.0	32.2	58.0	46.3	37.1	91.4	4.8	  7.3	  0.9	  0.3	  16.0	2.0
-3	Shai Gilgeous-Alexander	OKC	  40	42	24.0	30913750.0	31.4	68.0	51.0	34.5	90.5	4.8	  5.5	  1.6	  1.0	  3.0	  0.0
-4	Giannis Antetokounmpo	  MIL	  58	24	28.0	42492492.0	31.1	63.0	55.3	27.5	64.5	11.8	5.7	  0.8	  0.8	  46.0	6.0
+    | 	Player	                |  Team	| TW | TL | Age  | Salary     | PTS  |	GP   |	FG%  |	3P%  |	FT%  |	REB  |	AST | STL | BLK |  DD2  | TD3
+0   |	Joel Embiid	        |  PHI	| 54 | 28 | 29.0 | 33616770.0 | 33.1 |	66.0 |	54.8 |	33.0 |	85.7 |	10.2 |	4.2 | 1.0 | 1.7	|  39.0 | 1.0
+1   |	Luka Doncic	        |  DAL	| 38 | 44 | 24.0 | 37096500.0 | 32.4 |	66.0 |	49.6 |	34.2 |	74.2 |	8.6  |	8.0 | 1.4 | 0.5	|  36.0 | 10.0
+2   |	Damian Lillard	        |  POR	| 33 | 49 | 32.0 | 42492492.0 | 32.2 |	58.0 |	46.3 |	37.1 |	91.4 |	4.8  |	7.3 | 0.9 | 0.3	|  16.0 | 2.0
+3   |	Shai Gilgeous-Alexander |  OKC	| 40 | 42 | 24.0 | 30913750.0 | 31.4 |	68.0 |	51.0 |	34.5 |	90.5 |	4.8  |	5.5 | 1.6 | 1.0	|  3.0  | 0.0
+4   |	Giannis Antetokounmpo   |  MIL	| 58 | 24 | 28.0 | 42492492.0 | 31.1 |	63.0 |	55.3 |	27.5 |	64.5 |	11.8 |	5.7 | 0.8 | 0.8	|  46.0 | 6.0
 
 
 Here is a link to my [code](https://github.com/tylerduke11/Semester-Project-386/blob/main/basketball.py) and my [data](https://github.com/tylerduke11/Semester-Project-386/blob/main/nba_data.csv) in my GitHub repository.
