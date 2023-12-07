@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Is NBA Player Performance Correlated with Player Salary?"
+title:  "NBA Player Performance Analysis Part Two: What does the Data say?"
 author: Tyler Duke
 description: "An analysis of NBA players and their performance related to their salary"
 date: Nov 30, 2023
