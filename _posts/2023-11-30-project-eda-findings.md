@@ -3,7 +3,7 @@ layout: post
 title:  "NBA Player Performance Analysis Part Two: What does the Data say?"
 author: Tyler Duke
 description: "An analysis of NBA players and their performance related to their salary"
-date: Nov 30, 2023
+date: Dec 11, 2023
 image: "/assets/images/nba-banner.png"
 --- 
 
